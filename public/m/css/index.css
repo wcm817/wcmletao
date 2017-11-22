@@ -1,13 +1,13 @@
-/*µ¼º½À¸*/
-.lt_nav{
-    margin-top: 10px;
-    padding: 0 10px;
+.lt-nav {
+    padding: 10px 10px 0;
 }
-.lt_nav a{
+
+.lt-nav>a {
+    width: 33.33%;
     float: left;
-    width: 33.3333%;
 }
-.lt_nav a img{
+
+.lt-nav>a>img {
     width: 100%;
     display: block;
 }
